@@ -1,9 +1,12 @@
 ---
-layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+layout: page
+description: "Ashok Meenakshi Sundaram's Home page"
+title: Short Bio
+tagline: Bio
+tags: [about, bio, home]
+modified: 10-02-2014
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: transformers.jpg
+  credit: 404creative
+  creditlink: http://weblog.404creative.com/2007/05/13/transformers-movie-wallpapers/
 ---
